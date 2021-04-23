@@ -13,6 +13,7 @@
 
 ### Code examples: 
  
+ ```
  func loginButton(_ sender: UIButton) {
         if let email = emailTextField.text, let password = passwordTextField.text {
             activityIndicator.startAnimating()
@@ -23,3 +24,5 @@
             }
         }
     }
+    
+ ```
