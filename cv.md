@@ -26,3 +26,11 @@
     }
     
  ```
+### Summary:
+My goal is to become a iOS developer 
+
+### Education:
+Taras Shevchenko National University of Kiev 
+### Language:
+* English A2
+
